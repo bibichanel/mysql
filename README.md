@@ -4,7 +4,7 @@
 Using docker-compose.yml file
 ```
 sudo docker-compose build
-sudo docker-compose up -d //running containers in the background
+sudo docker-compose up -d 
 ```
 The **storage** directory will be created and mounted /var/lib/mysql directory in mysql container.
 
