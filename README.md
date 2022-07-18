@@ -13,3 +13,5 @@ The **storage** directory will be created and mounted /var/lib/mysql directory i
 sudo docker-compose down
 sudo rm -rf storage
 ```
+## Phpmyadmin: http://127.0.0.1:8080
+*Username & password: root*
